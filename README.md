@@ -36,7 +36,7 @@ pip install pandas numpy scikit-learn xgboost matplotlib seaborn
 
 
 3. **Prepare the Data**:
-Ensure the `KDDTrain+.txt` and `KDDTest+.txt` files from the NSL-KDD dataset are in the project directory.
+Ensure the `KDDTrain+.csv` and `KDDTest+.csv` files from the NSL-KDD dataset are in the project directory.
 4. **Run the Analysis**:
 ```bash
 python main.py
